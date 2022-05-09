@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-music-developer-token" content="eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiIsImtpZCI6Ilc0RjY4U1pNSlEifQ.eyJpc3MiOiJSUU05TVRSOThSIiwiZXhwIjoxNjQ1NTMyNDY0LCJpYXQiOjE2NDU0ODkyNjR9.qaaKhxvG9haVU4vrP6TNkXpz4s0jW9IJLeVFmSZgpmzoPFyGrCp1eHlKbluu8QORpfhhgofKG0QEJC3oZh7pOw"> <!--Gunna have to get the token via js-->
+    <meta name="apple-music-app-name" content="MusicKit Web App">
+    <meta name="apple-music-app-build" content="1.0.0"> 
+    <title>Apple API testing ground</title>
+    <script src="https://js-cdn.music.apple.com/musickit/v1/musickit.js"></script>
+</head>
+<body>
+
+<script>
+MusicKit.configure({
+        affiliateToken: undefined,
+        campaignToken: undefined,
+        declarativeMarkup: true,
+        developerToken: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiIsImtpZCI6Ik1MSjJDVzY5WDgifQ.eyJpc3MiOiJSUU05TVRSOThSIiwiZXhwIjoxNjQ3NTQ1MjE2LCJpYXQiOjE2NDY5NDQwMTZ9.kVOkDqV376ZkzkFFjbD28DPGe7_OpI_AtM8GF6FKtfI1QvdWgfJahFnjjK7o7o4yqYTb7e9-rEDZg-vWgdP0lw',
+        debug: true,
+        features: ['player-accurate-timing', 'api-data-store', 'api-session-storage', 'api-artist-include'],
+        storefrontId: 'us',
+        suppressErrorDialog: false
+      });
+</script>
+<script>
+    let music = MusicKit.getInstance();
+
+        music.authorize().catch(function(error) {
+        console.log(error);
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+.placeholder{
+    width: 100px;
+    height: 100px;
+    position:relative;
+    background-color: rgba(107, 151, 149, 0.404);
+}
+
+#loader{
+    border: 16px solid rgb(224, 226, 223);
+    border-top: 16px solid #349;
+    border-radius: 50%;
+    width: 75;
+    height: 75;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% {transform: rotate(0deg); }
+    100% {transform: rotate(360deg); }
+}
+
+#toast-container {
+    min-width: 10%;
+    top: 50%;
+    right: 50%;
+    transform: translateX(50%) translateY(50%);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Mono';
+}

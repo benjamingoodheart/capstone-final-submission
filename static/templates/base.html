@@ -1,0 +1,112 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Jquery Init-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- Drop Down JS Initialization-->
+    <script>
+      $(document).ready(function(){
+        $('select').formSelect();
+      });
+      $(document).ready(function(){
+        $('select').formSelect();
+    });
+    $(document).ready(function(){
+      $('.dropdown-trigger').dropdown();
+    });
+    </script>
+    <!--CSS-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="{% static 'css/materialize.css' %}">
+    <link rel="stylesheet" href="{% static 'css/custom.css' %}">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!--Mobile Device-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    {% block head %}
+    {% endblock %}
+    <title>{% block title %}{% endblock %} | AotyHelper</title>
+    
+</head>
+<body class="grey lighten-3">
+  <div class = "container amber lighten-5 z-depth-1">
+  <!--Header-->
+      <div class="row">
+        <div class = "col"></div>
+        <div class = "col s3">
+           <h4><em>AotyHelper</em></h4>
+           <br>
+            "We help ya rank ya albums"
+      </div>
+      <div class = "col s4 hide-on-med-and-down">
+        <br>
+        <i class="material-icons small grey-text">album</i><i class="material-icons medium grey-text">album</i><i class="material-icons large grey-text">album</i>
+      </div>
+    </div>
+
+<!--Navigation Bar-->
+     <nav>
+         <div class = "nav-wrapper amber lighten-4">
+             <ul id = "nav-mobile " class = "">
+              <li> <a class = "black-text" href = '{% url "indexView" %}''>Home</a> </li>
+              {% if user.is_authenticated %}
+
+                 <li> <a class = "black-text" href = '{% url "settingsView" %}'>Settings </a> </li>
+                 <li> <a class = "black-text" href= '{% url "logout" %}'>Logout</a> </li>
+              {% else %}
+                <li><a class = "black-text", href = '{% url "login" %}'>Login</a></li>
+              {% endif %}
+             </ul>
+         </div>
+     </nav> 
+     
+  <div class = "col s12 light-blue lighten-5 black-text">
+    {% if user.is_authenticated %}
+     &nbsp; &nbsp; Welcome {{user.username}}!! Today's Date Is: {{today}}
+     {% endif %}
+  </div>
+
+
+
+
+
+<!--Main Content-->  
+     <div class = "green lighten-5 z-depth-1">
+                {% block content %}
+                {% endblock %}
+        
+        </div>
+            
+<!--Footer-->
+      <div class ="row">
+        <div class = "footer-copyright grey-text"> <center>By Benjamin Goodheart</center></div>
+      </div>
+
+
+</div>  
+
+
+
+
+
+<!--Modal Initialization-->
+  <script>  
+  document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.modal');
+    var instances = M.Modal.init(elems, {
+      // specify options here
+    });
+  });
+  </script>
+  <!--Materialize JS-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>  
+  {% block js %}
+  {% endblock %}
+
+
+</body>
+</html>

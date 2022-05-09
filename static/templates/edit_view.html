@@ -1,0 +1,30 @@
+{% extends 'base.html' %} 
+{%block title%}
+Editing {{data.FK_albumID_userLT}}
+{%endblock%}
+{% block content %} 
+<div class="row"></div>
+<div class="row">
+    <!--Album Art-->
+    <div class="col s4"><img src="{{album.urlID}}" height="250" width="250"></div>
+    
+    <!-- Album Information -->
+    <div class="col s4">
+        <h5><i>{{data.FK_albumID_userLT}}</i></h5>
+        <h6>by <b>{{data.FK_artistID}}</b></h3>
+        Released: {{data.FK_relesase_date_LT}} 
+        <br>
+        Label: {{data.FK_recordLabelID_LT}}
+        <br>
+
+        <form action="" method="POST">
+            {% csrf_token %}
+            
+            {{ulf.as_p}}
+            <input type="submit" value="Save" onclick="M.toast({html: '<b>Saved!</b>', class: 'toast-container'})">
+        </form>
+        <a href="{{data.get_absolute_url}}/delete">Delete</a>
+        
+    </div>
+</div>
+{% endblock  %}

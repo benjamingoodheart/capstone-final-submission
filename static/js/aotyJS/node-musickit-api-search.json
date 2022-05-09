@@ -1,0 +1,225 @@
+{
+    "results": {
+        "songs": {
+            "href": "/v1/catalog/lv/search?limit=5&term=Ariana+grande+no+tears+left+to+cry&types=songs",
+            "next": "/v1/catalog/lv/search?offset=6&term=Ariana+grande+no+tears+left+to+cry&types=songs",
+            "data": [
+                {
+                    "id": "1399202959",
+                    "type": "songs",
+                    "href": "/v1/catalog/lv/songs/1399202959",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4c/7f/72/4c7f7211-93ad-831d-97ff-8df7b1e76dc0/mzaf_13696748096906744700.plus.aac.p.m4a"
+                            }
+                        ],
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/7e/aa/71/7eaa717a-857e-6d7a-c03c-8d67b3719706/18UMGIM36924.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "f2c5a4",
+                            "textColor1": "020202",
+                            "textColor2": "2e1a17",
+                            "textColor3": "322922",
+                            "textColor4": "553d33"
+                        },
+                        "artistName": "Ariana Grande",
+                        "url": "https://music.apple.com/lv/album/no-tears-left-to-cry/1399202539?i=1399202959",
+                        "discNumber": 1,
+                        "genreNames": [
+                            "Pop",
+                            "Music"
+                        ],
+                        "durationInMillis": 205924,
+                        "releaseDate": "2018-04-20",
+                        "name": "no tears left to cry",
+                        "isrc": "USUM71805289",
+                        "hasLyrics": true,
+                        "albumName": "Sweetener",
+                        "playParams": {
+                            "id": "1399202959",
+                            "kind": "song"
+                        },
+                        "trackNumber": 10,
+                        "composerName": "Ariana Grande, Max Martin, Ilya Salmanzadeh & Savan Kotecha"
+                    }
+                },
+                {
+                    "id": "1544324124",
+                    "type": "songs",
+                    "href": "/v1/catalog/lv/songs/1544324124",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dd/8b/73/dd8b7335-c486-59ea-99a1-3e32c1005079/mzaf_10467060873144240225.plus.aac.p.m4a"
+                            }
+                        ],
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/9e/71/a4/9e71a47f-c290-a542-07fd-a3aed41eefa7/18UMGIM36924.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "f2c5a4",
+                            "textColor1": "020202",
+                            "textColor2": "2e1a17",
+                            "textColor3": "322922",
+                            "textColor4": "553d33"
+                        },
+                        "artistName": "Ariana Grande",
+                        "url": "https://music.apple.com/lv/album/no-tears-left-to-cry/1544323964?i=1544324124",
+                        "discNumber": 1,
+                        "genreNames": [
+                            "Pop",
+                            "Music"
+                        ],
+                        "durationInMillis": 205924,
+                        "releaseDate": "2018-04-20",
+                        "name": "no tears left to cry",
+                        "isrc": "USUM71805289",
+                        "hasLyrics": true,
+                        "albumName": "sweetener",
+                        "playParams": {
+                            "id": "1544324124",
+                            "kind": "song"
+                        },
+                        "trackNumber": 10,
+                        "composerName": "Ariana Grande, Max Martin, Savan Kotecha & Ilya"
+                    }
+                },
+                {
+                    "id": "1492312866",
+                    "type": "songs",
+                    "href": "/v1/catalog/lv/songs/1492312866",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bb/53/a7/bb53a7d1-ac45-4f73-b68a-751d7f37592b/mzaf_12695496435788704550.plus.aac.p.m4a"
+                            }
+                        ],
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/ea/6e/0c/ea6e0c99-0099-2c74-33d5-23d829c8202f/19UM1IM13288.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "323232",
+                            "textColor1": "ededed",
+                            "textColor2": "c8c8c8",
+                            "textColor3": "c7c7c7",
+                            "textColor4": "aaaaaa"
+                        },
+                        "artistName": "Ariana Grande",
+                        "url": "https://music.apple.com/lv/album/no-tears-left-to-cry-live/1492312361?i=1492312866",
+                        "discNumber": 1,
+                        "genreNames": [
+                            "Pop",
+                            "Music"
+                        ],
+                        "durationInMillis": 233417,
+                        "releaseDate": "2019-12-23",
+                        "name": "no tears left to cry (live)",
+                        "isrc": "USUM71925389",
+                        "hasLyrics": true,
+                        "albumName": "k bye for now (swt live)",
+                        "playParams": {
+                            "id": "1492312866",
+                            "kind": "song"
+                        },
+                        "trackNumber": 31,
+                        "composerName": "Ariana Grande, Savan Kotecha, Max Martin & Ilya"
+                    }
+                },
+                {
+                    "id": "1388422470",
+                    "type": "songs",
+                    "href": "/v1/catalog/lv/songs/1388422470",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ec/e9/ec/ece9ec62-f4b6-ad0e-779e-5140eddb064c/mzaf_18365536804324436994.plus.aac.p.m4a"
+                            }
+                        ],
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/8c/f8/02/8cf80230-011e-cfd6-5818-f36c5dfefbac/18UMGIM30765.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "722d46",
+                            "textColor1": "feffff",
+                            "textColor2": "f0d12b",
+                            "textColor3": "e1d5da",
+                            "textColor4": "d7b030"
+                        },
+                        "artistName": "Ariana Grande",
+                        "url": "https://music.apple.com/lv/album/no-tears-left-to-cry/1388421872?i=1388422470",
+                        "discNumber": 1,
+                        "genreNames": [
+                            "Pop",
+                            "Music"
+                        ],
+                        "durationInMillis": 205947,
+                        "releaseDate": "2018-04-20",
+                        "name": "No Tears Left To Cry",
+                        "isrc": "USUM71805289",
+                        "hasLyrics": true,
+                        "albumName": "Break Ups to Make Ups",
+                        "playParams": {
+                            "id": "1388422470",
+                            "kind": "song"
+                        },
+                        "trackNumber": 3,
+                        "composerName": "Ariana Grande, Max Martin, Savan Kotecha & Ilya"
+                    }
+                },
+                {
+                    "id": "1400453919",
+                    "type": "songs",
+                    "href": "/v1/catalog/lv/songs/1400453919",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/51/b0/20/51b02009-9134-8edd-f050-79107f704327/mzaf_13822213697495529589.plus.aac.p.m4a"
+                            }
+                        ],
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/20/21/23/202123b3-b282-221a-992b-93cdce0aa47f/18UMGIM36166.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "ffffff",
+                            "textColor1": "070614",
+                            "textColor2": "11111f",
+                            "textColor3": "383843",
+                            "textColor4": "41404b"
+                        },
+                        "artistName": "Ariana Grande",
+                        "url": "https://music.apple.com/lv/album/no-tears-left-to-cry/1400452831?i=1400453919",
+                        "discNumber": 1,
+                        "genreNames": [
+                            "Pop",
+                            "Music"
+                        ],
+                        "durationInMillis": 205947,
+                        "releaseDate": "2018-04-20",
+                        "name": "No Tears Left to Cry",
+                        "isrc": "USUM71805289",
+                        "hasLyrics": true,
+                        "albumName": "Summer Feelin",
+                        "playParams": {
+                            "id": "1400453919",
+                            "kind": "song"
+                        },
+                        "trackNumber": 6,
+                        "composerName": "Ariana Grande, Max Martin, Savan Kotecha & Ilya"
+                    }
+                }
+            ]
+        }
+    },
+    "meta": {
+        "results": {
+            "order": [
+                "songs"
+            ],
+            "rawOrder": [
+                "songs"
+            ]
+        }
+    }
+}

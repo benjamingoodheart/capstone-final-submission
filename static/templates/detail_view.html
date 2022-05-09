@@ -1,0 +1,48 @@
+{% extends 'base.html' %} 
+{%block title%}
+{{data.FK_albumID_userLT}} by {{data.FK_artistID}}
+{%endblock%}
+{% block content %} 
+<div class="row"></div>
+<div class="row">
+    <!--Album Art-->
+    <div class="col s4"><img src="{{album.urlID}}" height="250" width="250" class = "z-depth-3"></div>
+    
+    <!-- Album Information -->
+    <div class="col s8">
+        <h5><i>{{data.FK_albumID_userLT}}</i></h5>
+        <h6>by <b>{{data.FK_artistID}}</b></h3>
+        Released: {{data.FK_release_date_LT}} 
+        <br>
+        Label: {{data.FK_recordLabelID_LT}}
+        <br>
+        <br>
+    <!--User Editable Content-->
+        <b>Rating</b>: {{data.FK_ratingLT}} <!--TODO: Write a JS function to turn this into stars-->
+        <br>
+        <b>Relisten:</b> {% if data.relisten == True %} Yes {% else %} No {% endif%} </b>
+        <br>
+        <b>Your comments:</b>
+        <p>{{data.comment}}</p>
+        <br>
+        <br>
+        <a href="{{data.get_absolute_url}}/edit">Edit</a>
+        <div class="fixed-action-btn">
+            <a class="btn-floating btn-large" href="{{data.get_absolute_url}}/edit">
+              <i class="large material-icons">edit</i>
+            </a>
+          </div>
+      
+    </div>
+</div>
+
+{% endblock %} 
+{% block js %}
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var elems = document.querySelectorAll('.fixed-action-btn');
+        var instances = M.FloatingActionButton.init(elems, options);
+      });
+
+</script>
+{% endblock %}

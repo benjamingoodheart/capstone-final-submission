@@ -1,0 +1,122 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+{% block head %}
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.css">
+
+{% endblock %}
+{%block title%}
+Home
+{%endblock%}
+
+{% block content %}
+{% if user.is_authenticated %}
+    <div class = "row">
+        <div class = "col s10"></div>
+        <div class = "col s1 right-align">
+            <br>
+            <select class="browser-default" onchange="datepicker(this.value)">
+                <option value="" disabled selected>Year</option> 
+                {% for year in unique_years %} 
+                <option value="{{year}}">{{year}}</option>
+                {% endfor %}
+            </select>
+        </div>
+    </div>
+   <div class = "row">
+    <div class = "col s1">
+
+    </div>
+    <div class = "col s10 center-align">
+        
+        <table id="table_id"0 class="display">
+            <thead>
+                <label> Browser Select </label>
+                <tr>
+                    <th>Album</th>
+                    <th>Artist</th>
+                    <th>Release Date</th>
+                    <th>Label</th>
+                    <th>Rating</th>
+                    <th>Relisten</th> 
+                </tr>
+            </thead>
+            <tbody>
+                
+                {% for album in all_albums %}
+                <tr>
+                    <td><a href = "{{album.get_absolute_url}}">{{album.FK_albumID_userLT}}</a></td>
+                    <td>{{album.FK_artistID}}</td>
+                    <td>{{album.FK_release_date_LT}}</td>
+                    <td>{{album.FK_recordLabelID_LT}}</td>
+                    <td>
+                        {% if album.FK_ratingLT >= 8 %}
+                        <span class="badge green lighten-3">{{album.FK_ratingLT}}</span>
+                        {% elif album.FK_ratingLT < 8 and album.FK_ratingLT > 5 %}
+                        <span class="badge yellow lighten-3">{{album.FK_ratingLT}}</span>
+                        {% elif album.FK_ratingLT <= 5 %} 
+                        <span class="badge red lighten-3">{{album.FK_ratingLT}}</span>
+                        {% endif %}
+                    </td>
+
+                    {% if album.relisten == True %} 
+                    <td class = "orange lighten-3"> Relisten </td>
+                    {% else %}
+                    <td>||||||</td>
+                    {% endif %}
+                {% endfor %}
+            </tbody>
+        </table>
+        {% if loginout == login %}
+        Listened to some new stuff? <a href = "{% url 'newFromSpotifyView' %}">Refresh your list.</a>
+        {% endif %}
+    </div>
+    <div class = "col s1">
+        <div class="fixed-action-btn">
+        <a class="btn-floating btn-large" href="{% url 'createView_album' %}">
+          <i class="large material-icons">add</i>
+        </a>
+      </div>
+    </div>
+   </div>
+   
+
+{% else %}
+<div class = "row">
+<div class = "col s12">You are not logged in! Please <a href='{% url "register" %}'>"Register"</a> </div>
+</div>
+{% endif %}
+{{if_404}}
+{% block js %}
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.4/js/jquery.dataTables.js"></script>
+<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js" integrity="sha256-eTyxS0rkjpLEo16uXTS0uVCS4815lc40K2iVpWDvdSY=" crossorigin="anonymous"></script>
+
+<script>
+    function datepicker(date){
+        let url = "/?=" + date
+        window.location = url
+    }
+</script>
+<script>
+$(document).ready( function () {
+    $('#table_id').DataTable();
+} );
+</script>
+<script>
+    function redir(){
+    document.location.assign("/refresh_token")
+    }
+</script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var elems = document.querySelectorAll('.fixed-action-btn');
+        var instances = M.FloatingActionButton.init(elems, options);
+      });
+
+</script>
+
+{% endblock %}
+
+{% endblock %}

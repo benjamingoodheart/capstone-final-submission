@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="row">
+<div class = "col s12">
+<h4>Success! You scraped your latest listens.</h4>
+</div>
+</div>
+{% endblock %}
+
+{% block js %}
+<script>
+    document.onreadystatechange = function(){
+        if(document.readyState !== "complete"){
+            document.querySelector('success').style.visibility = "hidden";
+            document.querySelector("indeterminate").style.visibility="visible";
+        } else {
+            document.querySelector("indeteminate").style.visibility="hidden";
+            document.querySelector('success').style.visibility="visible";
+        }
+    }
+</script>
+{% endblock %}

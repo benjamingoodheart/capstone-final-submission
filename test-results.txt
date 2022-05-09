@@ -1,0 +1,5560 @@
+
+Note: These first few tests were running with time recording as time*100
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.898s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 773.4509706497192 seconds-----------------------
+
+ |-	Test #1		-| 
+-----------------------Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.201s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.591s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 1344.7580814361572 seconds-----------------------
+
+ |-	Test #1		-| 
+-----------------------Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.242s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.615s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #3		-| 
+-----------------------Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.441s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #4		-| 
+-----------------------Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 6.233s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #5		-| 
+-----------------------Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.490s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 3867.6785945892334 seconds
+
+----------------
+*******TEST NAME: Late Night Test Q-10-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.618s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.650s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #3		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.229s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #4		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.738s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #5		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.438s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #6		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.622s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #7		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.989s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #8		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.188s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #9		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.687s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #10		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.234s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 76.4131453037262 seconds
+----------------
+*******TEST NAME: Late Night Test Q-25-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.811s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.372s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #3		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.250s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #4		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.557s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #5		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.585s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #6		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.913s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #7		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.874s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #8		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.429s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #9		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.277s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #10		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.961s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #11		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.050s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #12		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.540s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #13		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.809s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #14		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.557s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #15		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.561s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #16		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.114s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #17		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.961s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #18		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.786s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #19		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 6.006s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #20		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.694s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #21		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.975s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #22		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 7.760s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #23		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.771s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #24		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 6.176s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #25		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.308s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 194.92221665382385 seconds
+----------------
+*******TEST NAME: Late Night Test Q-50-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.591s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 7.150s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #3		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.470s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #4		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.563s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #5		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.798s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #6		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.869s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #7		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.876s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #8		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 6.023s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #9		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.661s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #10		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.316s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #11		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.938s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #12		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.804s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #13		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.956s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #14		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.414s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #15		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.481s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #16		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.905s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #17		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.006s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #18		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.364s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #19		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.439s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #20		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.558s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #21		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.998s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #22		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.250s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #23		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.928s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #24		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.876s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #25		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 7.021s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #26		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.674s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #27		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.918s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #28		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.133s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #29		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.002s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #30		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.811s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #31		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.808s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #32		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 7.253s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #33		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.942s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #34		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.916s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #35		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.463s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #36		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.491s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #37		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.694s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #38		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.813s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #39		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 6.528s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #40		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.613s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #41		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.768s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #42		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.093s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #43		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.771s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #44		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.959s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #45		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.990s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #46		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.589s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #47		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.445s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #48		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.842s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #49		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.574s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #50		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.121s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 400.2714912891388 seconds
+----------------
+*******TEST NAME: Late Night Test Sesh Q-100-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.650s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.617s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #3		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.730s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #4		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 6.787s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #5		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.480s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #6		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.968s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #7		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.930s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #8		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.328s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #9		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.685s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #10		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.365s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #11		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.729s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #12		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.227s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #13		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.418s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #14		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.934s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #15		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.431s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #16		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.741s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #17		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.227s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #18		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 6.242s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #19		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.206s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #20		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.878s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #21		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.708s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #22		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.014s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #23		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.820s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #24		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.967s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #25		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.237s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #26		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.830s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #27		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.464s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #28		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 6.036s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #29		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.120s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #30		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.957s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #31		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.510s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #32		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.837s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #33		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.464s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #34		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.524s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #35		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.373s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #36		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.174s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #37		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.181s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #38		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.442s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #39		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.712s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #40		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.649s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #41		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.527s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #42		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.762s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #43		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.510s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #44		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.398s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #45		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.786s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #46		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.444s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #47		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.518s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #48		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.433s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #49		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.799s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #50		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.543s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #51		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.232s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #52		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.634s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #53		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.760s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #54		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.130s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #55		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.186s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #56		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.656s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #57		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.768s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #58		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.989s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #59		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.661s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #60		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.087s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #61		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.831s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #62		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.482s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #63		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 7.293s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #64		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.772s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #65		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.090s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #66		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.717s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #67		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.088s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #68		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.127s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #69		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.901s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #70		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.545s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #71		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.311s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #72		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.472s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #73		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.640s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #74		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 7.612s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #75		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.618s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #76		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.486s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #77		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.279s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #78		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.327s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #79		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.143s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #80		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.295s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #81		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.164s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #82		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.309s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #83		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.495s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #84		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.208s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #85		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.421s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #86		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.898s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #87		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.679s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #88		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.208s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #89		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.366s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #90		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.256s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #91		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.601s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #92		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.920s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #93		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.643s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #94		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.259s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #95		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 7.069s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #96		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.382s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #97		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.197s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #98		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.976s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #99		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.816s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #100		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.381s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 755.5854606628418 seconds
+
+### Switch madAttemps to range(1,100)
+
+
+----------------
+*******TEST NAME: Afternoon Sesh = Q-1-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.224s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 32.28146409988403 seconds
+----------------
+*******TEST NAME: [AAfternoon Sesh =/= Null
+----------------
+*******TEST NAME: Afternoon Sesh =/= Null-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 31.422s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 34.53187108039856 seconds
+----------------
+*******TEST NAME: Test NULL
+----------------
+*******TEST NAME: NULL TYET
+----------------
+*******TEST NAME: NULL
+----------------
+*******TEST NAME: NULL
+----------------
+*******TEST NAME: NULL
+----------------
+*******TEST NAME: Null
+----------------
+*******TEST NAME: NULL-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+...
+Running mad attempts:   0%|          | 0/100 [00:00<?, ?it/s]
+Running mad attempts:   1%|          | 1/100 [00:27<45:38, 27.66s/it]
+Running mad attempts:   2%|▏         | 2/100 [00:55<45:07, 27.63s/it]
+Running mad attempts:   3%|▎         | 3/100 [01:21<43:59, 27.21s/it]
+Running mad attempts:   4%|▍         | 4/100 [01:47<42:30, 26.56s/it]
+Running mad attempts:   5%|▌         | 5/100 [02:15<42:36, 26.91s/it]
+Running mad attempts:   6%|▌         | 6/100 [02:41<42:02, 26.84s/it]
+Running mad attempts:   7%|▋         | 7/100 [03:11<43:15, 27.91s/it]
+Running mad attempts:   8%|▊         | 8/100 [03:41<43:30, 28.37s/it]
+Running mad attempts:   9%|▉         | 9/100 [04:10<43:23, 28.61s/it]
+Running mad attempts:  10%|█         | 10/100 [04:38<42:41, 28.46s/it]
+Running mad attempts:  11%|█         | 11/100 [05:05<41:29, 27.97s/it]
+Running mad attempts:  12%|█▏        | 12/100 [05:32<40:34, 27.66s/it]
+Running mad attempts:  13%|█▎        | 13/100 [06:03<41:39, 28.73s/it]
+Running mad attempts:  14%|█▍        | 14/100 [06:29<39:58, 27.89s/it]
+Running mad attempts:  15%|█▌        | 15/100 [06:59<40:36, 28.67s/it]
+Running mad attempts:  16%|█▌        | 16/100 [07:31<41:13, 29.45s/it]
+Running mad attempts:  17%|█▋        | 17/100 [07:59<40:15, 29.11s/it]
+Running mad attempts:  18%|█▊        | 18/100 [08:30<40:25, 29.58s/it]
+Running mad attempts:  19%|█▉        | 19/100 [08:58<39:32, 29.29s/it]
+Running mad attempts:  20%|██        | 20/100 [09:25<38:10, 28.63s/it]
+Running mad attempts:  21%|██        | 21/100 [09:52<37:01, 28.13s/it]
+Running mad attempts:  22%|██▏       | 22/100 [10:18<35:35, 27.38s/it]
+Running mad attempts:  23%|██▎       | 23/100 [10:44<34:36, 26.96s/it]
+Running mad attempts:  24%|██▍       | 24/100 [11:11<34:07, 26.95s/it]
+Running mad attempts:  25%|██▌       | 25/100 [11:37<33:30, 26.80s/it]
+Running mad attempts:  26%|██▌       | 26/100 [12:05<33:25, 27.09s/it]
+Running mad attempts:  27%|██▋       | 27/100 [12:31<32:29, 26.71s/it]
+Running mad attempts:  28%|██▊       | 28/100 [12:58<32:04, 26.73s/it]
+Running mad attempts:  29%|██▉       | 29/100 [13:24<31:32, 26.66s/it]
+Running mad attempts:  30%|███       | 30/100 [13:51<30:59, 26.56s/it]
+Running mad attempts:  31%|███       | 31/100 [14:17<30:27, 26.49s/it]
+Running mad attempts:  32%|███▏      | 32/100 [14:44<30:23, 26.81s/it]
+Running mad attempts:  33%|███▎      | 33/100 [15:13<30:35, 27.39s/it]
+Running mad attempts:  34%|███▍      | 34/100 [15:40<29:48, 27.10s/it]
+Running mad attempts:  35%|███▌      | 35/100 [16:07<29:31, 27.25s/it]
+Running mad attempts:  36%|███▌      | 36/100 [16:35<29:12, 27.39s/it]
+Running mad attempts:  37%|███▋      | 37/100 [17:05<29:33, 28.14s/it]
+Running mad attempts:  38%|███▊      | 38/100 [17:31<28:24, 27.50s/it]
+Running mad attempts:  39%|███▉      | 39/100 [17:57<27:37, 27.17s/it]
+Running mad attempts:  40%|████      | 40/100 [18:24<27:04, 27.08s/it]
+Running mad attempts:  41%|████      | 41/100 [18:55<27:39, 28.12s/it]
+Running mad attempts:  42%|████▏     | 42/100 [19:22<27:00, 27.93s/it]
+Running mad attempts:  43%|████▎     | 43/100 [19:50<26:23, 27.79s/it]
+Running mad attempts:  44%|████▍     | 44/100 [20:16<25:39, 27.49s/it]
+Running mad attempts:  45%|████▌     | 45/100 [20:46<25:40, 28.01s/it]
+Running mad attempts:  46%|████▌     | 46/100 [21:13<25:07, 27.91s/it]
+Running mad attempts:  47%|████▋     | 47/100 [21:40<24:12, 27.41s/it]
+Running mad attempts:  48%|████▊     | 48/100 [22:05<23:19, 26.91s/it]
+Running mad attempts:  49%|████▉     | 49/100 [22:31<22:30, 26.48s/it]
+Running mad attempts:  50%|█████     | 50/100 [22:58<22:19, 26.79s/it]
+Running mad attempts:  51%|█████     | 51/100 [23:27<22:17, 27.30s/it]
+Running mad attempts:  52%|█████▏    | 52/100 [23:54<21:51, 27.31s/it]
+Running mad attempts:  53%|█████▎    | 53/100 [24:20<21:00, 26.83s/it]
+Running mad attempts:  54%|█████▍    | 54/100 [24:47<20:46, 27.10s/it]
+Running mad attempts:  55%|█████▌    | 55/100 [25:15<20:21, 27.15s/it]
+Running mad attempts:  56%|█████▌    | 56/100 [25:41<19:39, 26.80s/it]
+Running mad attempts:  57%|█████▋    | 57/100 [26:07<19:09, 26.73s/it]
+Running mad attempts:  58%|█████▊    | 58/100 [26:35<18:48, 26.87s/it]
+Running mad attempts:  59%|█████▉    | 59/100 [27:02<18:25, 26.97s/it]
+Running mad attempts:  60%|██████    | 60/100 [27:30<18:15, 27.38s/it]
+Running mad attempts:  61%|██████    | 61/100 [27:56<17:32, 27.00s/it]
+Running mad attempts:  62%|██████▏   | 62/100 [28:23<17:09, 27.09s/it]
+Running mad attempts:  63%|██████▎   | 63/100 [28:53<17:13, 27.93s/it]
+Running mad attempts:  64%|██████▍   | 64/100 [29:20<16:32, 27.58s/it]
+Running mad attempts:  65%|██████▌   | 65/100 [29:49<16:18, 27.96s/it]
+Running mad attempts:  66%|██████▌   | 66/100 [30:17<15:48, 27.91s/it]
+Running mad attempts:  67%|██████▋   | 67/100 [30:44<15:17, 27.80s/it]
+Running mad attempts:  68%|██████▊   | 68/100 [31:13<14:55, 28.00s/it]
+Running mad attempts:  69%|██████▉   | 69/100 [31:43<14:46, 28.61s/it]
+Running mad attempts:  70%|███████   | 70/100 [32:12<14:23, 28.78s/it]
+Running mad attempts:  71%|███████   | 71/100 [32:43<14:12, 29.38s/it]
+Running mad attempts:  72%|███████▏  | 72/100 [33:12<13:39, 29.26s/it]
+Running mad attempts:  73%|███████▎  | 73/100 [33:40<12:58, 28.85s/it]
+Running mad attempts:  74%|███████▍  | 74/100 [34:07<12:14, 28.27s/it]
+Running mad attempts:  75%|███████▌  | 75/100 [34:35<11:48, 28.35s/it]
+Running mad attempts:  76%|███████▌  | 76/100 [35:03<11:14, 28.12s/it]
+Running mad attempts:  77%|███████▋  | 77/100 [35:29<10:36, 27.67s/it]
+Running mad attempts:  78%|███████▊  | 78/100 [35:56<10:00, 27.27s/it]
+Running mad attempts:  79%|███████▉  | 79/100 [36:23<09:31, 27.19s/it]
+Running mad attempts:  80%|████████  | 80/100 [36:49<09:00, 27.01s/it]
+Running mad attempts:  81%|████████  | 81/100 [37:16<08:31, 26.92s/it]
+Running mad attempts:  82%|████████▏ | 82/100 [37:42<08:00, 26.72s/it]
+Running mad attempts:  83%|████████▎ | 83/100 [38:10<07:38, 27.00s/it]
+Running mad attempts:  84%|████████▍ | 84/100 [38:38<07:16, 27.25s/it]
+Running mad attempts:  85%|████████▌ | 85/100 [39:04<06:45, 27.04s/it]
+Running mad attempts:  86%|████████▌ | 86/100 [39:30<06:15, 26.79s/it]
+Running mad attempts:  87%|████████▋ | 87/100 [39:58<05:51, 27.01s/it]
+Running mad attempts:  88%|████████▊ | 88/100 [40:26<05:28, 27.34s/it]
+Running mad attempts:  89%|████████▉ | 89/100 [40:56<05:08, 28.01s/it]
+Running mad attempts:  90%|█████████ | 90/100 [41:23<04:38, 27.80s/it]
+Running mad attempts:  91%|█████████ | 91/100 [41:51<04:09, 27.73s/it]
+Running mad attempts:  92%|█████████▏| 92/100 [42:17<03:39, 27.43s/it]
+Running mad attempts:  93%|█████████▎| 93/100 [42:44<03:10, 27.24s/it]
+Running mad attempts:  94%|█████████▍| 94/100 [43:13<02:45, 27.61s/it]
+Running mad attempts:  95%|█████████▌| 95/100 [43:42<02:21, 28.27s/it]
+Running mad attempts:  96%|█████████▌| 96/100 [44:09<01:51, 27.80s/it]
+Running mad attempts:  97%|█████████▋| 97/100 [44:37<01:23, 27.85s/it]
+Running mad attempts:  98%|█████████▊| 98/100 [45:04<00:55, 27.61s/it]
+Running mad attempts:  99%|█████████▉| 99/100 [45:31<00:27, 27.27s/it]
+Running mad attempts: 100%|██████████| 100/100 [45:57<00:00, 27.18s/it]
+Running mad attempts: 100%|██████████| 100/100 [45:57<00:00, 27.58s/it]
+...........................
+----------------------------------------------------------------------
+Ran 30 tests in 2760.653s
+
+OK
+Destroying test database for alias 'default'...
+
+
+----------------
+*******TEST NAME: NULL-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.206s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.218s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.608s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.830s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.389s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.962s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.165s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.188s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.827s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 6.042s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.859s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.419s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.149s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.074s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.399s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.746s
+
+OK
+Destroying test database for alias 'default'...
+
+
+----------------
+*******TEST NAME: 
+----------------
+*******TEST NAME: NULL
+----------------
+*******TEST NAME: NULL-----------------------
+
+ |-	Test #0		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.698s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.845s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.891s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #3		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.402s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #4		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.280s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #5		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.878s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #6		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.784s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #7		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.407s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #8		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.715s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #9		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.453s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #10		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.701s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #11		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.250s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #12		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.183s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #13		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.921s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #14		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.322s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #15		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.187s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #16		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.091s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #17		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.787s
+
+OK
+Destroying test database for alias 'default'...
+
+
+----------------
+*******TEST NAME: Null
+----------------
+*******TEST NAME: NULL-----------------------
+
+ |-	Test #0		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.394s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.740s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 16.850401163101196 seconds
+----------------
+*******TEST NAME: Null-----------------------
+
+ |-	Test #0		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.222s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 8.053934812545776 seconds
+----------------
+*******TEST NAME: NULL TEST-----------------------
+
+ |-	Test #0		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.024s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.547s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.468s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #0		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.596s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.232s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.747s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #0		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.619s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.682s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 5.189s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 79.14201784133911 seconds
+----------------
+*******TEST NAME: G-----------------------
+
+ |-	Test #0		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.144s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 7.74347710609436 seconds
+----------------
+*******TEST NAME: NULL-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.325s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.934s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #3		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 4.855s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 27.51688313484192 secondsRESTART OF THE AFTERNOON SESH , RANGE (1,100)
+
+
+
+----------------
+*******TEST NAME: Afternoon Sesh - Q-1-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.984s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 30.8304500579834 seconds
+----------------
+*******TEST NAME: Afternoon Sesh - Q-2-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.435s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 31.777s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 66.16539597511292 seconds
+----------------
+*******TEST NAME: Afternoon Sesh - Q-5-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.682s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.365s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #3		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.625s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #4		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 26.868s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #5		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 26.653s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 154.86245703697205 seconds
+----------------
+*******TEST NAME: Afternoon Sesh - Q-10-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.939s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.498s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #3		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.214s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #4		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.721s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #5		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.679s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #6		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.482s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #7		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.957s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #8		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 31.025s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #9		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.420s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #10		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 33.801s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 335.9691050052643 seconds
+----------------
+*******TEST NAME: Afternoon Sesh Q-25-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.052s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.857s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #3		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 31.531s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #4		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.609s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #5		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.845s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #6		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.853s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #7		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.467s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #8		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.012s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #9		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.835s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #10		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.918s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #11		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 31.143s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #12		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.256s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #13		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.573s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #14		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.036s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #15		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.319s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #16		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.095s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #17		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.973s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #18		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.162s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #19		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.040s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #20		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.313s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #21		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.819s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #22		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.873s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #23		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.494s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #24		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.150s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #25		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 26.890s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 800.2061488628387 seconds
+----------------
+*******TEST NAME: Afternoon Sesh Q-50-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.857s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 31.764s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #3		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.277s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #4		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.809s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #5		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.563s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #6		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.117s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #7		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.826s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #8		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 26.788s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #9		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.026s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #10		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.573s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #11		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.063s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #12		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.100s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #13		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.690s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #14		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.753s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #15		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.567s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #16		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.328s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #17		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.146s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #18		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.785s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #19		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.274s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #20		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 31.281s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #21		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 36.197s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #22		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.799s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #23		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.360s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #24		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.413s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #25		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.971s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #26		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.663s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #27		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.583s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #28		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.638s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #29		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.799s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #30		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.495s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #31		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.189s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #32		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.623s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #33		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.589s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #34		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.215s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #35		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.388s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #36		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.285s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #37		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.857s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #38		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.985s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #39		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.289s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #40		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 26.500s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #41		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.551s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #42		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.142s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #43		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.621s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #44		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.228s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #45		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 26.979s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #46		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.143s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #47		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.224s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #48		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.637s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #49		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.523s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #50		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.484s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 1585.9690408706665 seconds
+----------------
+*******TEST NAME: Afternoon Sesh Finale - Q-100-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.553s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.855s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #3		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.225s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #4		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.706s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #5		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.534s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #6		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.219s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #7		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.026s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #8		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.023s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #9		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.539s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #10		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 26.702s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #11		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.172s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #12		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.450s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #13		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.678s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #14		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.480s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #15		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.318s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #16		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.549s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #17		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 31.043s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #18		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.772s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #19		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 31.176s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #20		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.373s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #21		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 26.907s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #22		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.132s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #23		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 26.778s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #24		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.882s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #25		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.664s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #26		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 26.835s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #27		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.998s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #28		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.889s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #29		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.382s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #30		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.189s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #31		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.263s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #32		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.216s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #33		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.895s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #34		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.200s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #35		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.589s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #36		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.238s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #37		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.696s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #38		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 26.639s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #39		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.129s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #40		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 26.230s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #41		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.273s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #42		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.498s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #43		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.020s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #44		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.784s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #45		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.555s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #46		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.853s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #47		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.086s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #48		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.571s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #49		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.939s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #50		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.535s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #51		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.719s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #52		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.296s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #53		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.210s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #54		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.126s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #55		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.582s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #56		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.345s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #57		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.795s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #58		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.430s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #59		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.895s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #60		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.366s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #61		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.981s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #62		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.265s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #63		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.472s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #64		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.563s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #65		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.832s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #66		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 33.357s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #67		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.427s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #68		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.509s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #69		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.330s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #70		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.318s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #71		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.881s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #72		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.516s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #73		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.637s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #74		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.309s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #75		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.349s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #76		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.711s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #77		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.454s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #78		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.530s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #79		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.251s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #80		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 26.885s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #81		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 26.510s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #82		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.406s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #83		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.626s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #84		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.719s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #85		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.448s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #86		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.826s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #87		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.971s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #88		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 35.849s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #89		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 29.426s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #90		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 31.382s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #91		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.512s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #92		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.739s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #93		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.427s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #94		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 32.659s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #95		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.105s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #96		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 31.310s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #97		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 27.780s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #98		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.540s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #99		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 30.639s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #100		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 28.589s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 3180.6991226673126 seconds
+----------------
+*******TEST NAME: NULL TEST-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 273.154s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 276.21010088920593 seconds
+
+# # # # # # # # # # # # # # # # # # # # # # # 
+
+# Change the range for madAttempts (1,1000) #
+# # # # #3########################## # # # #
+
+
+
+----------------
+*******TEST NAME: NITE SESH - Q-1-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 274.679s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 279.82238960266113 seconds
+----------------
+*******TEST NAME: NITE SESH - Q-2-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 274.686s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 277.550s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 558.4472935199738 seconds
+----------------
+*******TEST NAME: NITE SESH Q-5-----------------------
+
+ |-	Test #1		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 276.605s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #2		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 271.476s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #3		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 283.342s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #4		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 287.277s
+
+OK
+Destroying test database for alias 'default'...
+
+-----------------------
+
+ |-	Test #5		-| 
+-----------------------
+Creating test database for alias 'default'...
+..............................
+----------------------------------------------------------------------
+Ran 30 tests in 284.646s
+
+OK
+Destroying test database for alias 'default'...
+
+Ran in 1419.3282551765442 seconds

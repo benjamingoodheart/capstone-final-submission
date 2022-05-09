@@ -1,0 +1,32 @@
+{% extends 'base.html' %} 
+
+{% block content %}
+<div class = "container">
+<div class = "row">
+<div class="col s2"></div>
+<div class = "col s8 z-depth-1">
+	<h5>Add a new record to your collection!</h5>
+	<hr>
+	{{test}}
+<form method="POST" enctype="multipart/form-data">
+
+	<!-- Security token -->
+	{% csrf_token %}
+
+	<!-- Using the formset -->
+	{{artistInput.as_p}}
+	{{albumInput.as_p}}
+	{{imageUrlInput.as_p}}
+	{{releasedInput}}
+	{{ultInput.as_p}}
+	<input type="submit" value="Submit " onclick="M.toast({html: '<b>Saved!</b>', class: 'toast-container'})">
+    
+</form>
+</div>
+<div class="col s2">
+</div>
+</div>
+</div>
+
+
+{% endblock %}

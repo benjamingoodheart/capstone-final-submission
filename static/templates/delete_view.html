@@ -1,0 +1,14 @@
+{% extends 'base.html'%}
+{%block title%}
+Delete {{data.FK_albumID_userLT}}??
+{%endblock%}
+{% block content %}
+<form method="POST">
+    {% csrf_token %}
+    Are you sure you want to delete this record from your list? It will get added again if you listen to it again on Spotify.
+    <input type="submit" value="I get it"  onclick="M.toast({html: '<b>Deleted!</b>', class: 'toast-container'})">
+    <a href="{{data.get_absolute_url}}/edit"> Cancel </a>
+{% endblock %}
+{% block js %}
+
+{% endblock %}

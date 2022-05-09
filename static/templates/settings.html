@@ -1,0 +1,42 @@
+{%extends 'base.html'%}
+{%block title%}
+Settings
+{%endblock%}
+
+{%block content%}
+
+<div class = "row z-depth-1">
+<div class = "col s1"></div>
+<div class = "col s5">
+<h4>Settings</h4>
+<h6>User</h6>
+<a href="{% url 'password_reset' %}"> Reset password </a> 
+<h6>Spotify</h6>
+
+
+{% if spotify_con == False %}
+<a href="{{auth_url}}">Connect Your Spotify!</a>
+{% elif spotify_con == True %}
+Your spotify is connected! Click here to <a href="https://spotify.com/account" target="_blank"> revoke access. </a> Something not working? Try <a href="{{auth_url}}" target="_blank">reauthorizing</a>
+{% endif %}
+{{success}}
+
+<!--<h6>Bandcamp</h6>-->
+<!--REWRITE-->
+
+<!-- USE THE OBJECT ON THE VIEWS I DK -->
+
+<h6>Coming Soon</h6>
+
+<ul> Bandcamp Album Logging</ul></li>
+<ul> Apple Music </ul></li>
+<ul> Discogs </ul></li>
+
+</div>
+</div>
+
+
+{%endblock%}
+
+{% block js %}
+{% endblock %}
