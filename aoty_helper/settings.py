@@ -29,7 +29,7 @@ SECRET_KEY = os.getenv('DJANGO_SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-
+ACCOUNT_DEFAULT_HTTP_PROTOCOL = "http"
 
 # Application definition
 
@@ -66,7 +66,7 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'aoty_helper.urls'
 
 
-TEMPLATE_DIR = os.path.join(BASE_DIR, 'capstone_2022/static/templates')
+TEMPLATE_DIR = os.path.join(BASE_DIR, 'capstone-final-submission/static/templates')
 
 
 TEMPLATES = [
@@ -147,9 +147,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.0/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
+STATIC_ROOT = os.path.join(BASE_DIR, 'capstone-final-submission/static')
 STATICFILES_DIRS = [
-    '/home/webadmin/capstone_2022/static',
+    'capstone-final-submission/static',
 ]
 
 # Default primary key field type
@@ -187,7 +187,7 @@ CSRF_COOKIE_SECURE = True
 SESSION_COOKIE_SECURE = True
 SESSION_SAVE_EVERY_REQUEST = True
 
-SECURE_SSL_REDIRECT = True
+SECURE_SSL_REDIRECT = False
 
 
 # EMAIL SETTINGS
@@ -195,6 +195,6 @@ SECURE_SSL_REDIRECT = True
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = os.getenv('AOTYBOT_EMAIL')
-EMAIL_HOST_PASSWORD = os.getenv('AOTYBOT_PASS')
+EMAIL_HOST_USER = os.getenv('EMAIL_NAME')
+EMAIL_HOST_PASSWORD = os.getenv('EMAIL_PASS')
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
