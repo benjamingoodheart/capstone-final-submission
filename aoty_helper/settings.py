@@ -93,14 +93,24 @@ WSGI_APPLICATION = 'aoty_helper.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'ENGINE': 'django.db.backends.sqlite3',
         'NAME': 'aotyhelper',
-        'USER': os.getenv('DB_USER'),
-        'PASSWORD': os.getenv('DB_PASS'),
+    }
+}
+
+# FOR PRODUCTION
+'''
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': '', #insert your name here
+        'USER': os.getenv('DB_USER'),                
+        'PASSWORD': os.getenv('DB_PASS'),     
         'HOST': 'localhost',
         'PORT': '',
     }
 }
+'''
 
 
 # Password validation
@@ -120,7 +130,6 @@ AUTH_PASSWORD_VALIDATORS = [
         'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
     },
 ]
-
 
 # Internationalization
 # https://docs.djangoproject.com/en/4.0/topics/i18n/
