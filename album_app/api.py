@@ -62,7 +62,7 @@ class Spotify_Handler():
             "&scope=" + self.scope + "&show_dialog=true"
         return url
 
-    def get_recently_played(self, headers) -> json():
+    def get_recently_played(self, headers):
         response = requests.get("https://api.spotify.com/v1/me/player/recently-played?limit=5", headers=headers)
         data = response.json()
         return data
