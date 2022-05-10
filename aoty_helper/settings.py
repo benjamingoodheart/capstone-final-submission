@@ -180,14 +180,14 @@ LOGIN_REDIRECT_URL = "/"
 LOGOUT_REDIRECT_URL = "/"
 
 # Cookies
-'''
+
 SESSION_ENGINE = 'django.contrib.sessions.backends.signed_cookies'
 CSRF_COOKIE_SECURE = True
 SESSION_COOKIE_SECURE = True
 SESSION_SAVE_EVERY_REQUEST = True
 
 SECURE_SSL_REDIRECT = False
-'''
+
 
 
 # EMAIL SETTINGS
