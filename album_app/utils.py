@@ -62,11 +62,14 @@ class Utils():
         ult_obj = UserListenedTo.objects.create(user=user, FK_albumID_userLT=album_obj, FK_artistID=artist_obj, FK_release_date_LT=album_obj.release_date)
         return ult_obj
 
-    def user_already_listened(self, user, album_name, artist_name):
-        if UserListenedTo.objects.filter(user=user, FK_albumID_userLT=Album.objects.get(albumName=album_name)).exists():
-            return True
+    def user_already_listened(self, request, user, album_name, artist_name, release_date, record_label, img_url ):
+        if self.album_exists(album_name) is True:
+            if UserListenedTo.objects.filter(user=user, FK_albumID_userLT=Album.objects.get(albumName=album_name)).exists():
+                return True
+            else:
+                return False
         else:
-            return False
+            self.createAlbum_FullOBJ(request, album_name, artist_name, release_date, record_label, img_url)
 
     # Retrieve the Bandcamp username
     def getBC_Username(self, request):

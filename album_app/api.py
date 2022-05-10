@@ -121,9 +121,12 @@ class Spotify_Handler():
             user = request.user
 
             # Create the Object
-            if self.u.user_already_listened(user, album_name, artist_name) is False:
-                self.u.createAlbum_FullOBJ(
-                                    self.request, album_name, artist_name,
-                                    release_date, label, album_art_url
-                                    )
-                self.u.createUlt(user, album_name, artist_name)
+            try:
+                if self.u.user_already_listened(request, user, album_name, artist_name, release_date, label, album_art_url) is False:
+                    self.u.createAlbum_FullOBJ(
+                                        request, album_name, artist_name,
+                                        release_date, label, album_art_url
+                                        )
+                    self.u.createUlt(user, album_name, artist_name)
+            except IntegrityError:
+                pass

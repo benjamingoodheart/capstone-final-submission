@@ -31,7 +31,7 @@ import requests
 from .forms import *
 
 # models
-from .models import RecordLabel, Album, Genre
+from .models import RecordLabel, Album, Genre, AlbumArt
 
 # global variables
 load_dotenv()
@@ -123,6 +123,7 @@ def createView_album(request):
     # Init Relationship Forms
     playsOnInput = PlaysOnForm(request.POST or None)
     releasedInput = ReleasedForm(request.POST or None)
+    
 
     # Object from Form creation
     forms_validated = set({})   # set to be used for conditionals
@@ -135,6 +136,10 @@ def createView_album(request):
         forms_validated.add(artistInput)
     if imageUrlInput.is_valid():
         imageURL_obj = imageUrlInput.save()
+        AlbumArt.objects.create(
+                                urlID=imageURL_obj,
+                                display_album_name=album_obj.albumName
+        )
         forms_validated.add(imageUrlInput)
 
     # Object from form input creation: Record Label
@@ -361,7 +366,7 @@ def getNewFromSpotifyView(request):
         response_data = response.json()
 
         # Add the albums to the database
-
+        
         s.iterate_and_add_spotify_rec_played(request, response_data, headers)
 
         # Context Return

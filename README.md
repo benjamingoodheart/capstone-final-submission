@@ -45,7 +45,7 @@ For the email and pass, use your own so the backend can send emails for the pass
 
 ## 3. Initializing the Application
 
-Double check you are in ```capstone-final-submission/``` and run the command:
+Double check you are in **capstone-final-submission/** and run the command:
 ```
 python3 manage.py migrate
 ```
@@ -58,13 +58,13 @@ python3 manage.py runserver
 
 Then in your browser go to [localhost:8000](http://localhost:8000) and you should see the following:
 
-![img](img.png)
+![img](static/img.png)
 
 Sweet! Now shut it down using `ctrl^C`
 
 ## 5. Create The Admin Account
 
-Make sure in the root directory of the app `capstone-final-submission`
+Make sure in the root directory of the app **capstone-final-submission/**
 
 To use the website, you must create a user. You will want to create an admin user specifically.
 
