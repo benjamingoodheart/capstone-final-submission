@@ -58,7 +58,7 @@ python3 manage.py runserver
 
 Then in your browser go to [localhost:8000](http://localhost:8000) and you should see the following:
 
-![img](static/img.png)
+![img](static/screenshot.png)
 
 Sweet! Now shut it down using `ctrl^C`
 
